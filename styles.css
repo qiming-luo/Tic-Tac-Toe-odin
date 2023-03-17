@@ -14,7 +14,7 @@
 /* main */
 .main {
     display: grid;
-    grid-template-columns: 4fr 1fr;
+    grid-template-columns: 1fr 3fr 1fr 1fr;
 }
 
 .left, .right {
@@ -23,6 +23,7 @@
 }
 
 /* left side */
+
 .grid-game-board {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
