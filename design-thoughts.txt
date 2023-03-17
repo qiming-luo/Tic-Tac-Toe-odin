@@ -1,0 +1,8 @@
+1. have start/restart button to satart game
+2. has 2 modes: human vs computer ; human vs human
+3. human can select a shape ,either X or O
+4. can accumulate scores: wining 1 game will score 3 points, tie: 2, lose: 0 (just like football game).
+   can set a limited numbers of gemes, after all games, compare scores and decide a winner. (sunch as
+    play 10 games and the decide a winner)
+5. with 3*3 grid gameboard, it is suitable for kids.
+6. can add unbeatable AI to a set of games, such as randomly 40% games AI will be unbeatable among 10 games. 
